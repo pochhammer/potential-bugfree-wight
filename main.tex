@@ -4,22 +4,16 @@
 \usepackage[left=.5cm,top=1.5cm,right=.5cm,bottom=2cm]{geometry}
 \usepackage{multicol}
 
-% Własne środowiska
 \newenvironment{enumx}{\begin{enumerate} \setlength{\itemsep}{0pt} \setlength{\parskip}{0pt} \setlength{\parsep}{0pt}}{\end{enumerate}}
 \newenvironment{itemx}{\begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{0pt} \setlength{\parsep}{0pt}}{\end{itemize}}
 
-% Własne kolory
 \usepackage[usenames,dvipsnames]{color}
 \definecolor{wordred}{rgb}{0.9,  0,    0}
-% \definecolor{wordgrn}{rgb}{0,    0.45, 0.2}
 \definecolor{wordblu}{rgb}{0,    0.45, 0.75}
-% \definecolor{wordorn}{rgb}{0.95, 0.6,  0.1}
 \newcommand{\farbea}[1]{{\color{wordred} {#1}}}
 \newcommand{\farbeb}[1]{{\color{wordblu} {#1}}}
-% \newcommand{\farbec}[1]{{\color{wordgrn} {#1}}}
-\newcommand{\spk}[3]{\stepcounter{definicja} \textbf{\farbeb{#1}} \dotfill {#2}}
+\newcommand{\spk}[3]{\stepcounter{definicja} \textbf{\farbeb{#1}}: {#2} \farbea{(#3)}}
 \newcommand{\kapt}[1]{\noindent \stepcounter{kapcz} (\arabic{kapcz}) \dotfill \textbf{[#1]}}
-\newcommand{\lst}[1]{\begin{center}\Huge \bf {Hiszpa\'{n}ska lista nr \stepcounter{lsta} \arabic{lsta}}\end{center}}
 
 \newcounter{definicja}
 \newcounter{kapcz}
@@ -46,34 +40,25 @@
 \begin{document} 
 \maketitle
 
-\begin{multicols}{3}
+\begin{multicols}{2}
 \stepcounter{definicja} 
-\kapt{Algebra liniowa}\begin{enumx}\input{src/sLiniowa}\end{enumx}
+%\kapt{Algebra liniowa}\begin{enumx}\input{src/sLiniowa}\end{enumx}
 \kapt{Algebra abstrakcyjna}\begin{enumx}\input{src/sAlgebra}\end{enumx}
 \kapt{Analiza}\begin{enumx}\input{src/sAnaliza}\end{enumx}
-\kapt{Analiza -- miara}\begin{enumx}\input{src/sMiara}\end{enumx}
-\kapt{Analiza -- funkcjonalna}\begin{enumx}\input{src/sFunkcjonalna}\end{enumx}
-\kapt{Numeryka}\begin{enumx}\input{src/sNumeryka}\end{enumx}
-\kapt{Geometria}\begin{enumx}\input{src/sGeometria}\end{enumx}
-\kapt{Teoria liczb}\begin{enumx}\input{src/sLiczby}\end{enumx}
+%\kapt{Analiza -- miara}\begin{enumx}\input{src/sMiara}\end{enumx}
+%\kapt{Analiza -- funkcjonalna}\begin{enumx}\input{src/sFunkcjonalna}\end{enumx}
+%\kapt{Numeryka}\begin{enumx}\input{src/sNumeryka}\end{enumx}
+%\kapt{Geometria}\begin{enumx}\input{src/sGeometria}\end{enumx}
+%\kapt{Teoria liczb}\begin{enumx}\input{src/sLiczby}\end{enumx}
 \kapt{Teoria mnogości}\begin{enumx}\input{src/sZbiory}\end{enumx}
-\kapt{Topologia}\begin{enumx}\input{src/sTopologia}\end{enumx}
+%\kapt{Topologia}\begin{enumx}\input{src/sTopologia}\end{enumx}
+\vfill
+\newpage
 
 \kapt{Śmietnik dla leniwych}
 \begin{enumx}
-\input{src/sHmh}
+\input{src/sHnng}
 \end{enumx}
 
-\newpage
 \end{multicols}
 \end{document}
-%  \item \spk{}{}
-
-\kapt{Tematyczne słowa}
-\begin{enumx}
-\item \spk{}{}, 
-\item \spk{}{}, 
-\item \spk{}{}, 
-\item \spk{}{}, 
-\item \spk{}{}, 
-\end{enumx}
