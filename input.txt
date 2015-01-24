@@ -1,60 +1,100 @@
+\item [\arabic{definicja}.] \spk{?1}{ciąg normalny (grup)}{normal series} %katalgebra
+\item [\arabic{definicja}.] \spk{?2}{grupa torsyjna}{torsion group} %katalgebra
+\item [\arabic{definicja}.] \spk{?3}{komutant}{?} %katalgebra
+\item [\arabic{definicja}.] \spk{?4}{zagęszczenie (ciągu grup)}{refinement} %katalgebra
+\item [\arabic{definicja}.] \spk{?5}{normalizator}{normalizer} %katalgebra
 \item [\arabic{definicja}.] \spk{Abelisierung, f}{abelianizacja}{abelianization} %katalgebra
 \item [\arabic{definicja}.] \spk{abelsch}{abelowy}{abelian} %katalgebra
+\item [\arabic{definicja}.] \spk{abgeschlossen}{domknięty}{closed} %kattopologia
+\item [\arabic{definicja}.] \spk{Ableitung, f}{pochodna}{derivative} %katanaliza
 \item [\arabic{definicja}.] \spk{Algebra, f}{algebra}{algebra} %katalgebra
+\item [\arabic{definicja}.] \spk{analytisch}{analityczny}{analytic} %katanaliza
+\item [\arabic{definicja}.] \spk{assoziativ}{łączny}{associative} %katalgebra
+\item [\arabic{definicja}.] \spk{auflösbare Gruppe}{grupa rozwiązalna}{solvable group} %katalgebra
 \item [\arabic{definicja}.] \spk{Automorphismus, m}{automorfizm}{automorphism} %katalgebra
-\item [\arabic{definicja}.] \spk{Integral, n}{całka}{integral} %katanaliza
-\item [\arabic{definicja}.] \spk{Zentralisator, m}{centralizator}{centralizer} %katalgebra
-\item [\arabic{definicja}.] \spk{Zentrum, n}{centrum}{center} %katalgebra
-\item [\arabic{definicja}.] \spk{?}{ciąg normalny (grup)}{normal series} %katalgebra
-\item [\arabic{definicja}.] \spk{Körper, m}{ciało}{field} %katalgebra
-\item [\arabic{definicja}.] \spk{zyklisch}{cykliczny}{cyclic} %katalgebra
+\item [\arabic{definicja}.] \spk{Ball, m}{kula}{ball} %katgeometria
+\item [\arabic{definicja}.] \spk{Bilinearform, f}{forma dwuliniowa}{bilinear form} %katliniowa
 \item [\arabic{definicja}.] \spk{Dieder-}{diedralny}{dihedral} %katalgebra
-\item [\arabic{definicja}.] \spk{Integritätsring, m}{dziedzina całkowitości}{integral domain} %katalgebra
-\item [\arabic{definicja}.] \spk{Normalteiler, m}{dzielnik normalny}{normal subgroup} %katalgebra
-\item [\arabic{definicja}.] \spk{Nullteiler, m}{dzielnik zera}{zero divisor} %katalgebra
-\item [\arabic{definicja}.] \spk{neutral}{element neutralny}{neutral} %katalgebra
+\item [\arabic{definicja}.] \spk{differenzierbar}{różniczkowalny}{differentiable} %katanaliza
+\item [\arabic{definicja}.] \spk{direkte Summe}{suma prosta}{direct sum} %katalgebra
+\item [\arabic{definicja}.] \spk{direktes Produkt}{produkt prosty}{direct product} %katalgebra
+\item [\arabic{definicja}.] \spk{Dreieck, n}{trójkąt}{triangle} %katgeometria
+\item [\arabic{definicja}.] \spk{Durchmesser, ?}{średnica}{diameter} %katgeometria
+\item [\arabic{definicja}.] \spk{Ebene, f}{płaszczyzna}{plane} %katgeometria
+\item [\arabic{definicja}.] \spk{einfache Gruppe}{grupa prosta}{simple group} %katalgebra
 \item [\arabic{definicja}.] \spk{Endomorphismus, m}{endomorfizm}{endomorphism} %katalgebra
 \item [\arabic{definicja}.] \spk{Epimorphismus, m}{epimorfizm}{epimorphism} %katalgebra
+\item [\arabic{definicja}.] \spk{Erwartungswert, m}{wartość oczekiwana}{expected value} %katpstwo
 \item [\arabic{definicja}.] \spk{Erzeuger, m}{generator}{generator} %katalgebra
-\item [\arabic{definicja}.] \spk{Gruppe, f}{grupa}{group} %katalgebra
 \item [\arabic{definicja}.] \spk{Faktorgruppe, f}{grupa ilorazowa}{quotient group} %katalgebra
-\item [\arabic{definicja}.] \spk{einfache Gruppe}{grupa prosta}{simple group} %katalgebra
-\item [\arabic{definicja}.] \spk{auflösbare Gruppe}{grupa rozwiązalna}{solvable group} %katalgebra
-\item [\arabic{definicja}.] \spk{?}{grupa torsyjna}{torsion group} %katalgebra
+\item [\arabic{definicja}.] \spk{Fixpunkt, m}{punkt stały}{fixed point} %katnokat
 \item [\arabic{definicja}.] \spk{freie Gruppe}{grupa wolna}{free group} %katalgebra
-\item [\arabic{definicja}.] \spk{Homomorphismus, m}{homomorfizm}{homomorphism} %katalgebra
+\item [\arabic{definicja}.] \spk{Gerade, f}{prosta}{line} %katgeometria
+\item [\arabic{definicja}.] \spk{glatt}{gładki}{smooth} %katanaliza
+\item [\arabic{definicja}.] \spk{gleichmäßig}{jednostajny}{uniform} %katanaliza
+\item [\arabic{definicja}.] \spk{Gruppe, f}{grupa}{group} %katalgebra
 \item [\arabic{definicja}.] \spk{Hauptideal, m}{ideał główny}{principal ideal} %katalgebra
-\item [\arabic{definicja}.] \spk{maximales Ideal}{ideał maksymalny}{maximal ideal} %katalgebra
-\item [\arabic{definicja}.] \spk{prim (Ideal)}{ideał pierwszy}{prime ideal} %katalgebra
+\item [\arabic{definicja}.] \spk{Hauptidealring, m}{pierścień ideałów głównych}{principal ideal ring} %katalgebra
+\item [\arabic{definicja}.] \spk{Homomorphismus, m}{homomorfizm}{homomorphism} %katalgebra
+\item [\arabic{definicja}.] \spk{Homöomorphismus, m}{homeomorfizm}{homeomorphism} %kattopologia
+\item [\arabic{definicja}.] \spk{Integral, n}{całka}{integral} %katanaliza
+\item [\arabic{definicja}.] \spk{integrierbar}{całkowalny}{integrable} %katanaliza
+\item [\arabic{definicja}.] \spk{Integritätsring, m}{dziedzina całkowitości}{integral domain} %katalgebra
+\item [\arabic{definicja}.] \spk{invertierbar}{odwracalny}{invertible} %katalgebra
 \item [\arabic{definicja}.] \spk{Isomorphismus, m}{izomorfizm}{isomorphism} %katalgebra
-\item [\arabic{definicja}.] \spk{?}{komutant}{?} %katalgebra
-\item [\arabic{definicja}.] \spk{Kommutator, m}{komutator}{commutator} %katalgebra
-\item [\arabic{definicja}.] \spk{assoziativ}{łączny}{associative} %katalgebra
 \item [\arabic{definicja}.] \spk{Kette, f}{łańcuch}{chain} %katmnogosci
+\item [\arabic{definicja}.] \spk{kommutativ}{przemienny}{commutative} %katalgebra
+\item [\arabic{definicja}.] \spk{Kommutator, m}{komutator}{commutator} %katalgebra
+\item [\arabic{definicja}.] \spk{Kommutatorgruppe, f}{pochodna grupy}{commutator subgroup} %katalgebra
+\item [\arabic{definicja}.] \spk{kompakt}{zwarty}{compact} %kattopologia
+\item [\arabic{definicja}.] \spk{Konjugation, f}{sprzężenie}{conjugation} %katalgebra
+\item [\arabic{definicja}.] \spk{Konvergenz, f}{zbieżność}{convergence} %katanaliza
+\item [\arabic{definicja}.] \spk{Körper, m}{ciało}{field} %katalgebra
+\item [\arabic{definicja}.] \spk{Kovarianz, f}{kowariancja}{covariance} %katpstwo
+\item [\arabic{definicja}.] \spk{Maß, f}{miara}{measure} %katanaliza
+\item [\arabic{definicja}.] \spk{Matrix, f}{macierz}{matrix} %katliniowa
+\item [\arabic{definicja}.] \spk{maximales Ideal}{ideał maksymalny}{maximal ideal} %katalgebra
+\item [\arabic{definicja}.] \spk{Mittelwertsatz, m}{tw. o wartości średniej}{mean value theorem} %katanaliza
 \item [\arabic{definicja}.] \spk{Modul, d}{moduł}{module} %katalgebra
 \item [\arabic{definicja}.] \spk{Monoid, n}{monoid}{monoid} %katalgebra
 \item [\arabic{definicja}.] \spk{Monomorphismus, m}{monomorfizm}{monomorphism} %katalgebra
+\item [\arabic{definicja}.] \spk{neutral}{element neutralny}{neutral} %katalgebra
 \item [\arabic{definicja}.] \spk{nilpotent}{nilpotentny}{nilpotent} %katalgebra
 \item [\arabic{definicja}.] \spk{noethersch}{noetherowski}{Noetherian} %katalgebra
-\item [\arabic{definicja}.] \spk{Zentralisator, m}{normalizator}{normalizer} %katalgebra
-\item [\arabic{definicja}.] \spk{invertierbar}{odwracalny}{invertible} %katalgebra
+\item [\arabic{definicja}.] \spk{Normalteiler, m}{dzielnik normalny}{normal subgroup} %katalgebra
+\item [\arabic{definicja}.] \spk{Nullteiler, m}{dzielnik zera}{zero divisor} %katalgebra
+\item [\arabic{definicja}.] \spk{offen}{otwarty}{open} %kattopologia
 \item [\arabic{definicja}.] \spk{Orbit, f}{orbita}{orbit} %katalgebra
+\item [\arabic{definicja}.] \spk{Partialbruch, m}{ułamek prosty}{partial fraction} %katanaliza
+\item [\arabic{definicja}.] \spk{periodisch}{okresowy}{periodic} %katanaliza
 \item [\arabic{definicja}.] \spk{Permutation, f}{permutacja}{permutation} %katnokat
-\item [\arabic{definicja}.] \spk{Ring, m}{pierścień}{ring} %katalgebra
-\item [\arabic{definicja}.] \spk{Hauptidealring, m}{pierścień ideałów głównych}{principal ideal ring} %katalgebra
-\item [\arabic{definicja}.] \spk{Schiefkörper, m}{pierścień z dzieleniem}{division ring} %katalgebra
-\item [\arabic{definicja}.] \spk{Ableitung, f}{pochodna}{derivative} %katanaliza
-\item [\arabic{definicja}.] \spk{Kommutatorgruppe, f}{pochodna grupy}{commutator subgroup} %katalgebra
-\item [\arabic{definicja}.] \spk{semidirektes Produkt}{produkt półprosty}{semidirect product} %katalgebra
-\item [\arabic{definicja}.] \spk{direktes Produkt}{produkt prosty}{direct product} %katalgebra
-\item [\arabic{definicja}.] \spk{kommutativ}{przemienny}{commutative} %katalgebra
-\item [\arabic{definicja}.] \spk{Fixpunkt, m}{punkt stały}{fixed point} %katnokat
-\item [\arabic{definicja}.] \spk{Radikal, n}{radykał}{radical} %katalgebra
-\item [\arabic{definicja}.] \spk{Konjugation, f}{sprzężenie}{conjugation} %katalgebra
-\item [\arabic{definicja}.] \spk{Stabilisator, m}{stabilizator}{stabilizer} %katalgebra
-\item [\arabic{definicja}.] \spk{direkte Summe}{suma prosta}{direct sum} %katalgebra
-\item [\arabic{definicja}.] \spk{Reihe, f}{szereg}{series} %katanaliza
-\item [\arabic{definicja}.] \spk{Potenzreihe, f}{szereg potęgowy}{power series} %katanaliza
-\item [\arabic{definicja}.] \spk{Torsion, f}{torsja}{torsion} %katalgebra
 \item [\arabic{definicja}.] \spk{Polynom, n}{wielomian}{polynomial} %katalgebra
-\item [\arabic{definicja}.] \spk{?}{zagęszczenie (ciągu grup)}{refinement} %katalgebra
+\item [\arabic{definicja}.] \spk{Potenzreihe, f}{szereg potęgowy}{power series} %katanaliza
+\item [\arabic{definicja}.] \spk{prim (Ideal)}{ideał pierwszy}{prime ideal} %katalgebra
+\item [\arabic{definicja}.] \spk{Quadrat, n}{kwadrat}{square} %katgeometria
+\item [\arabic{definicja}.] \spk{quadratische Form}{forma kwadratowa}{quadratic form} %katliniowa
+\item [\arabic{definicja}.] \spk{Radikal, n}{radykał}{radical} %katalgebra
+\item [\arabic{definicja}.] \spk{Rechteck, n}{prostokąt}{rectangle} %katgeometria
+\item [\arabic{definicja}.] \spk{Reihe, f}{szereg}{series} %katanaliza
+\item [\arabic{definicja}.] \spk{Ring, m}{pierścień}{ring} %katalgebra
+\item [\arabic{definicja}.] \spk{Schiefkörper, m}{pierścień z dzieleniem}{division ring} %katalgebra
+\item [\arabic{definicja}.] \spk{Sehne, f}{cięciwa}{chord} %katgeometria
+\item [\arabic{definicja}.] \spk{semidirektes Produkt}{produkt półprosty}{semidirect product} %katalgebra
+\item [\arabic{definicja}.] \spk{separabel}{ośrodkowy}{separable} %kattopologia
+\item [\arabic{definicja}.] \spk{Stabilisator, m}{stabilizator}{stabilizer} %katalgebra
+\item [\arabic{definicja}.] \spk{stetig}{ciągły}{continuous} %kattopologia
+\item [\arabic{definicja}.] \spk{Topologie, f}{topologia}{topology} %kattopologia
+\item [\arabic{definicja}.] \spk{Torsion, f}{torsja}{torsion} %katalgebra
+\item [\arabic{definicja}.] \spk{Torus, m}{torus}{torus} %katgeometria
+\item [\arabic{definicja}.] \spk{Trennungsaxiom, n}{aksjomat oddzielania}{separation axiom} %kattopologia
+\item [\arabic{definicja}.] \spk{Varianz, f}{wariancja}{variance} %katpstwo
+\item [\arabic{definicja}.] \spk{Verteilung, f}{rozkład p-stwa}{distribution} %katpstwo
+\item [\arabic{definicja}.] \spk{Verteilungsfunktion, f}{dystrybuanta}{cumulative distribution f.} %katpstwo
+\item [\arabic{definicja}.] \spk{vollständig}{zupełny}{complete} %kattopologia
+\item [\arabic{definicja}.] \spk{Wahrscheinlichkeit, f}{prawdopodobieństwo}{probability} %katpstwo
+\item [\arabic{definicja}.] \spk{Würfel, m}{sześcian}{cube} %katgeometria
+\item [\arabic{definicja}.] \spk{Zentralisator, m}{centralizator}{centralizer} %katalgebra
+\item [\arabic{definicja}.] \spk{Zentrum, n}{centrum}{center} %katalgebra
+\item [\arabic{definicja}.] \spk{Zufallsvariable, f}{zmienna losowa}{random variable} %katpstwo
+\item [\arabic{definicja}.] \spk{zusammenhängen}{spójny}{connected} %kattopologia
+\item [\arabic{definicja}.] \spk{zyklisch}{cykliczny}{cyclic} %katalgebra
